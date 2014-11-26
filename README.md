@@ -1,3 +1,6 @@
+**WARNING:** This plugin is a work in progress and is not yet available for use
+<hr />
+
 # Vagrant SMB Share Plugin
 
 Vagrant plugin to automatically create and connect to a UNC share.
